@@ -8,6 +8,8 @@
 
 ## Usage
 
+**NOTE:** admin privileges are required for the script to function
+
 First, download the script by cloning the repository or by copying its source code to another file. If you receive a security warning, allow it. When run with no parameters, you'll see the usage instructions:
 
 ```
